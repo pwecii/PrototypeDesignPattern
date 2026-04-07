@@ -1,6 +1,6 @@
-# 🧬 Prototype Design Pattern – Problem Scenario
+# Prototype Design Pattern
 
-## 📌 Problem Overview
+## Problem Overview
 
 In a system where different types of animals (such as Sheep, Cow, and Horse) need to be created frequently, object creation can become inefficient and repetitive. Each animal has multiple attributes (e.g., number of legs, sound, food, name, color), and initializing these values every time a new object is needed can lead to:
 
